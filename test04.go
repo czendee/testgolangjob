@@ -61,7 +61,7 @@ func test01Fail(){
 }
 
 func test01Sucess(){
-    if(     IsPalindromePermutation(" wert")){
+    if(     IsPalindromePermutation(" wertrew ")){
         log.Print("IsPalindromePermutation true")
      }else{
          log.Print("IsPalindromePermutation false")
